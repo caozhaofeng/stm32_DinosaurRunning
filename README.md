@@ -1,6 +1,8 @@
 
 /*by逐辰十七* 2025-9-8 恐龙快跑
+
 工程模版来自铁头山羊
+
 参考学习视频:https://www.bilibili.com/video/BV17ojzzvEe3/?spm_id_from=333.1387.favlist.content.click&vd_source=c4ea31ebc7600abbfadb0a4771cb2ffe
 
 添加了云朵生成,障碍物小鸟,小恐龙下蹲,模拟重力加速度
